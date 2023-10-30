@@ -1,7 +1,11 @@
 import React from 'react';
 
 const SignUpForm = () => {
-  return <div>SignUpForm</div>;
+  return (
+    <div>
+      <button>Click me</button>
+    </div>
+  );
 };
 
 export default SignUpForm;
